@@ -1,0 +1,7 @@
+[package]
+name = "dug"
+version = "0.1.0"
+authors = ["Per Arneng <per.arneng@anyplanet.com>"]
+
+[dependencies]
+colored = "1.2"
